@@ -1,2 +1,2 @@
-# netTest
-Testing for project
+# Mindsim
+Mind simulation &amp; illustration
